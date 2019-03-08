@@ -1,9 +1,26 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: Symantec
+  link: https://www.Symantec.com
+  jobs:
+    - title: Senior Manager, Cloud Operations
+      dates: September 2018 - present
+    - title: Site Reliability Architect
+      dates: June 2018 - September 2018
+    - title: Senior Principal SRE
+      dates: June 2017 - June 2018
   quote: >
-   Short description of the company (optional)
+    Market leader is enterprise and consumer security
   description: | # this will include new lines to allow paragraphs
     Description of role
+
+- company: Lifelock
+  link: https://www.Lifelock.com
+  jobs:
+    - title: Technology Operations Architect
+      dates: Feburary 2017 - June 2017
+    - title: Manager, Systems Engineering
+      dates: July 2014 - Feburary 2017
+    - title: Infrastructure Engineer II
+      dates: Feburary 2013 - July 2014
+  description: | # this will include new lines to allow paragraphs
+    Update me!

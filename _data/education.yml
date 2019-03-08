@@ -1,7 +1,7 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: DeVry University
+  dates: 2001-2004
+  qualification: BS Electronic Engineering
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
