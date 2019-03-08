@@ -2,7 +2,10 @@
 - name: DeVry University
   dates: 2001-2004
   qualification: BS Electronic Engineering
-  quote: >
-    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Obtained a Bachelors of Science in Electronic Engineering. Coursework included the following.
+
+    * C++ Programming Fundamentals
+    * Digital Signal Processing
+    * Communication Systems
+    * Digital Systems Design

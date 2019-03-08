@@ -9,9 +9,11 @@
     - title: Senior Principal SRE
       dates: June 2017 - June 2018
   quote: >
-    Market leader is enterprise and consumer security
+    Industry recognized leader in enterprise and consumer security...
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Technical Leader for the Technology Operations group with the Lifelock Business Unit
+
+    Designed and helped implement various platform and hosting systems.
 
 - company: Lifelock
   link: https://www.Lifelock.com
@@ -22,5 +24,7 @@
       dates: July 2014 - Feburary 2017
     - title: Infrastructure Engineer II
       dates: Feburary 2013 - July 2014
+  quote: >
+    Market leader in identity managerment and protection...
   description: | # this will include new lines to allow paragraphs
     Update me!
