@@ -3,9 +3,15 @@
   dates: 2001-2004
   qualification: BS Electronic Engineering
   description: | # this will include new lines to allow paragraphs
-    Obtained a Bachelors of Science in Electronic Engineering. Coursework included the following.
+      Obtained a Bachelors of Science in Electronic Engineering. 
 
-    * C++ Programming Fundamentals
-    * Digital Signal Processing
-    * Communication Systems
-    * Digital Systems Design
+      Coursework included the following:
+
+      * C++ Programming Fundamentals and Advanced C++ Programming
+      * Java Programming Fundamentals
+      * Digital Signal Processing
+      * Analog Signal Processing
+      * Communication Systems
+      * Digital Systems Design
+      * Embedded Systems Design
+      * Control Systems with Assembly Programming

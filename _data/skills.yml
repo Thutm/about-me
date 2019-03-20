@@ -1,0 +1,30 @@
+- name: Programming Languages
+  skills:
+        - name: Python
+          percent: 75
+        - name: Ruby
+          percent: 25
+        - name: HCL
+          percent: 80
+        - name: NodeJS
+          percent: 25
+        - name: Golang
+          percent: 20
+        - name: VBScript
+          percent: 80
+        - name: Powershell
+          percent: 50
+- name: Cloud Providers
+  skills:
+        - name: AWS
+          percent: 90
+        - name: Azure
+          percent: 10
+        - name: GCP
+          percent: 10
+- name: Technologies
+  skills:
+        - name: Jenkins
+          percent: 90
+        - name: Git
+          percent: 90

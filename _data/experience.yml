@@ -9,11 +9,18 @@
     - title: Senior Principal SRE
       dates: June 2017 - June 2018
   quote: >
-    Industry recognized leader in enterprise and consumer security...
+    "The world’s leading cyber security company, more than 50 million people and families rely on Symantec’s Norton and LifeLock Digital Safety Platform to help protect their personal information, devices, home networks, and identities at home and across their devices."
   description: | # this will include new lines to allow paragraphs
-    Technical Leader for the Technology Operations group with the Lifelock Business Unit
+    Responsibilities:
+    - Technical Leader for the Technology Operations group with the Lifelock Business Unit
+    - Designed and helped implement various platform and hosting systems.
+    - Designed and helped implement various platform and hosting systems.
+    - Designed and helped implement various platform and hosting systems.
+    - Designed and helped implement various platform and hosting systems.
 
-    Designed and helped implement various platform and hosting systems.
+    Accomplishments:
+    - Thing 1
+    - Thing 2
 
 - company: Lifelock
   link: https://www.Lifelock.com
@@ -25,6 +32,70 @@
     - title: Infrastructure Engineer II
       dates: Feburary 2013 - July 2014
   quote: >
-    Market leader in identity managerment and protection...
+    "LifeLock is a modern identity theft protection company. And with the flood of mobile technology and apps, consumer behaviors and expectations are changing—right along with what “identity” actually means. So we enable protection with convenience and put you in control of being uniquely you."
   description: | # this will include new lines to allow paragraphs
-    Update me!
+    Responsibilities:
+    - Managed the Systems Engineering team within the lifelock business who was repsonsbile for all private and public cloud platforms.
+    - Created tools and automated work flows to manage both public and private clouds. <mark>VMWare/AWS</mark>
+
+    Accomplishments:
+    - Thing 1
+    - Things 2
+
+- company: Newtek Business Services
+  link: https://www.newtekone.com
+  jobs:
+    - title: Lead Server Administrator (SA II)
+      dates: July 2010 - Feburary 2013
+    - title: Systems Administrator (SA I)
+      dates: July 2008 - July 2010
+  quote: >
+    "Your Total Business solution provider"
+  description: | # this will include new lines to allow paragraphs
+    Responsibilities:
+    - Worked within the Newtek Technology Services group to build and maintain private cloud services.
+    - Technical leader for a 24/7 rotating staff of server administrators.
+    - Documented reference architeture for new system designs.
+    - Automated server provisioning workflows.
+    - Created command line utlilties to assist network and server operations teams with day to day work.
+    - Created and maintained custom monitoring solutions using <mark>WCF and ASP.Net</mark>.
+    - Created disaster recovery plan for Newtek Merchant Services applications.
+    - Reviewed and implemented all <mark>PCI DSS</mark> controls necessary to maintain and pass PCI Audits as sole custodian.
+    - Supported shared and dedicated hosting infrastrcture for customers.
+    - Maintained <mark>CentOS, Ubuntu, and Windows Server</mark> operating systems.
+
+    Accomplishments:
+    - Automated physical server provisioner using <mark>Flask, Python, and Spacewalk</mark>.
+    - Created highly available Splunk logging for SIEM.
+    - Designed multitenant ColdFusion hostig platform with JVM level isolation.
+    - Implemented a Hyper-V clusters for VPS hosting using System Center Virtual Machine Manager.
+    - Built a Distributed object store using Swift storage (Now known as OpenStack).
+    - Desgined and implemented a KVM clusters for VPS using Ubuntu and OpenStack.
+
+- company: Bank of America
+  link: https://www.bofa.com
+  jobs:
+    - title: MIS Systems Analyst / Helpdesk Analyst
+      dates: July 2006 - July 2008
+  quote: >
+    "Helping to make financial lives better through the power of every connection"
+  description: | # this will include new lines to allow paragraphs
+    - Automated work flows using <mark>VBSript, Powershell, C#, and Java</mark>.
+    - Created thick client tools to support helpdesk functions.
+    - Developed and hosted password reset applications for <mark>Microsoft Active Directory</mark>.
+    - Packaged user software and updates using Microsoft package manager. (<mark>MSI</mark>)
+
+- company: IBM
+  link: https://www.ibm.com
+  jobs:
+    - title: IT Helpdesk Analyst
+      dates: September 2004 - July 2006
+  quote: >
+    "With the proven ability to change entire industries, IBM Services helps lead a pragmatic journey, so you can grow through digital reinvention"
+  description: | # this will include new lines to allow paragraphs
+    - Worked with the American Express IT helpdesk supporting multiple business units.
+    - Provided remote assitance to American Express Financial Advisors to resolve problems as needed.
+    - Performed new user workstation setup remotely over screen sharing.
+    - Taught Financial Advisors on using the AMEX software suite.
+    - Developed internal tools to assist with the troubleshooting and remediation of issues.
+    - Automated printer, scanner, and Lotus Notes setup using <mark>VBScript</mark>.

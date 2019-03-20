@@ -4,58 +4,21 @@
     <div class="col-md-12">
       {{ site.more_content | strip | markdownify }}
       <div class="skillsContainer">
+        {% for type in site.data.skills %}
         <div class="contentContainer">
           <center>
-            <h4>Programming Languages</h4>
+            <h4>{{ type.name }}</h4>
           </center>
+          {% for skills in type.skills %}
           <div class="progressBar">
-            <h4>Python</h4>
+            <h4>{{ skills.name }}</h4>
             <div class="progressBarContainer">
-              <div class="progressBarValue value-90"></div>
+              <div class="progressBarValue value-{{ skills.percent }}"></div>
             </div>
           </div>
-          <div class="progressBar">
-            <h4>NodeJS</h4>
-            <div class="progressBarContainer">
-              <div class="progressBarValue value-80"></div>
-            </div>
-          </div>
-          <div class="progressBar">
-            <h4>HCL</h4>
-            <div class="progressBarContainer">
-              <div class="progressBarValue value-30"></div>
-            </div>
-          </div>
-          <div class="progressBar">
-            <h4>Ruby</h4>
-            <div class="progressBarContainer">
-              <div class="progressBarValue value-70"></div>
-            </div>
-          </div>
+          {% endfor %}
         </div>
-        <div class="contentContainer">
-          <center>
-            <h4>Technologies</h4>
-          </center>
-          <div class="progressBar">
-            <h4>AWS</h4>
-            <div class="progressBarContainer">
-              <div class="progressBarValue value-90"></div>
-            </div>
-          </div>
-          <div class="progressBar">
-            <h4>Terraform</h4>
-            <div class="progressBarContainer">
-              <div class="progressBarValue value-80"></div>
-            </div>
-          </div>
-          <div class="progressBar">
-            <h4>Chef</h4>
-            <div class="progressBarContainer">
-              <div class="progressBarValue value-30"></div>
-            </div>
-          </div>
-        </div>
+        {% endfor %}
       </div>
     </div>
   </div>
