@@ -1,4 +1,14 @@
 # Project template
+- name: Kubernetes Platform
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    A kubernetes deployment for a microservice stack using terraform, EKS, fluentd, and dynatrace.
+  description: | # this will include new lines to allow paragraphs
+    Taking a microservice architecture that is running on EC2 and deploying it into kubernetes. This
+    project consists most of reference architecture and strategy for engaging with EKS to host the 
+    various services.
+
 - name: Terraform CI/CD
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
