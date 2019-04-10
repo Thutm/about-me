@@ -13,7 +13,7 @@
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    An automated delivery pipeline using Jenkins that will take your terraform code and apply it to multilpe environments.
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
@@ -21,7 +21,7 @@
   link: (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Lambda based backup system for AWS supporting EFS, EBS, and S3. Predates AWS Backup service.
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
 
